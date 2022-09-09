@@ -22,10 +22,10 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/google/webpackager/exchange"
-	"github.com/google/webpackager/exchange/exchangetest"
-	"github.com/google/webpackager/resource/preload"
-	"github.com/google/webpackager/resource/preload/preloadtest"
+	"github.com/layer0-platform/webpackager/exchange"
+	"github.com/layer0-platform/webpackager/exchange/exchangetest"
+	"github.com/layer0-platform/webpackager/resource/preload"
+	"github.com/layer0-platform/webpackager/resource/preload/preloadtest"
 )
 
 func makeHTTPResponse(payload []byte) *http.Response {

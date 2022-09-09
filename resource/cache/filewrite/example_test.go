@@ -18,9 +18,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/google/webpackager/internal/urlutil"
-	"github.com/google/webpackager/resource"
-	"github.com/google/webpackager/resource/cache/filewrite"
+	"github.com/layer0-platform/webpackager/internal/urlutil"
+	"github.com/layer0-platform/webpackager/resource"
+	"github.com/layer0-platform/webpackager/resource/cache/filewrite"
 )
 
 func ExampleAddBaseDir() {

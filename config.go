@@ -15,14 +15,14 @@
 package webpackager
 
 import (
-	"github.com/google/webpackager/exchange"
-	"github.com/google/webpackager/exchange/vprule"
-	"github.com/google/webpackager/fetch"
-	"github.com/google/webpackager/processor"
-	"github.com/google/webpackager/processor/complexproc"
-	"github.com/google/webpackager/resource/cache"
-	"github.com/google/webpackager/urlrewrite"
-	"github.com/google/webpackager/validity"
+	"github.com/layer0-platform/webpackager/exchange"
+	"github.com/layer0-platform/webpackager/exchange/vprule"
+	"github.com/layer0-platform/webpackager/fetch"
+	"github.com/layer0-platform/webpackager/processor"
+	"github.com/layer0-platform/webpackager/processor/complexproc"
+	"github.com/layer0-platform/webpackager/resource/cache"
+	"github.com/layer0-platform/webpackager/urlrewrite"
+	"github.com/layer0-platform/webpackager/validity"
 )
 
 // Config defines injection points to Packager.

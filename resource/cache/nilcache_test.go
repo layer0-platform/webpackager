@@ -17,7 +17,7 @@ package cache_test
 import (
 	"testing"
 
-	"github.com/google/webpackager/resource/cache"
+	"github.com/layer0-platform/webpackager/resource/cache"
 )
 
 func TestNilCache(t *testing.T) {

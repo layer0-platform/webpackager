@@ -22,8 +22,8 @@ import (
 	"time"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/google/webpackager"
-	"github.com/google/webpackager/fetch/fetchtest"
+	"github.com/layer0-platform/webpackager"
+	"github.com/layer0-platform/webpackager/fetch/fetchtest"
 	multierror "github.com/hashicorp/go-multierror"
 )
 

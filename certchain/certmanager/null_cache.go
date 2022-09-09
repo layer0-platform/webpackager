@@ -15,7 +15,7 @@
 package certmanager
 
 import (
-	"github.com/google/webpackager/certchain"
+	"github.com/layer0-platform/webpackager/certchain"
 )
 
 // NullCache is a dummy Cache that does nothing.

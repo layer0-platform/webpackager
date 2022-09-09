@@ -22,7 +22,7 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/google/webpackager/fetch/fetchtest"
+	"github.com/layer0-platform/webpackager/fetch/fetchtest"
 )
 
 func TestFetchClient(t *testing.T) {

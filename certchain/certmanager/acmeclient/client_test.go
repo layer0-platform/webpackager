@@ -28,10 +28,10 @@ import (
 	"github.com/go-acme/lego/v3/acme"
 	"github.com/go-acme/lego/v3/platform/tester"
 	"github.com/google/go-cmp/cmp"
-	"github.com/google/webpackager/certchain/certmanager"
-	"github.com/google/webpackager/certchain/certmanager/acmeclient"
-	"github.com/google/webpackager/certchain/certmanager/futureevent"
-	"github.com/google/webpackager/internal/certchaintest"
+	"github.com/layer0-platform/webpackager/certchain/certmanager"
+	"github.com/layer0-platform/webpackager/certchain/certmanager/acmeclient"
+	"github.com/layer0-platform/webpackager/certchain/certmanager/futureevent"
+	"github.com/layer0-platform/webpackager/internal/certchaintest"
 	jose "gopkg.in/square/go-jose.v2"
 )
 

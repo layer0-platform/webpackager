@@ -17,9 +17,9 @@ package certmanager
 import (
 	"time"
 
-	"github.com/google/webpackager/certchain"
-	"github.com/google/webpackager/certchain/certchainutil"
-	"github.com/google/webpackager/certchain/certmanager/futureevent"
+	"github.com/layer0-platform/webpackager/certchain"
+	"github.com/layer0-platform/webpackager/certchain/certchainutil"
+	"github.com/layer0-platform/webpackager/certchain/certmanager/futureevent"
 )
 
 // LocalCertFile is a RawChainSource which reads the certificate chain from

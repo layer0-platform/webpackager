@@ -18,8 +18,8 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/google/webpackager/internal/urlutil"
-	"github.com/google/webpackager/resource/httplink"
+	"github.com/layer0-platform/webpackager/internal/urlutil"
+	"github.com/layer0-platform/webpackager/resource/httplink"
 )
 
 func TestNewLink(t *testing.T) {

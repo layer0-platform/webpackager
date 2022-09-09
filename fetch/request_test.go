@@ -20,7 +20,7 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/google/webpackager/fetch"
+	"github.com/layer0-platform/webpackager/fetch"
 )
 
 func newGetRequest(url string) *http.Request {

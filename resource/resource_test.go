@@ -17,9 +17,9 @@ package resource_test
 import (
 	"testing"
 
-	"github.com/google/webpackager/exchange"
-	"github.com/google/webpackager/internal/urlutil"
-	"github.com/google/webpackager/resource"
+	"github.com/layer0-platform/webpackager/exchange"
+	"github.com/layer0-platform/webpackager/internal/urlutil"
+	"github.com/layer0-platform/webpackager/resource"
 )
 
 func TestSetExchange(t *testing.T) {

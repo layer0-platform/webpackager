@@ -22,7 +22,7 @@ import (
 	"time"
 
 	"github.com/WICG/webpackage/go/signedexchange"
-	"github.com/google/webpackager/certchain/certchainutil"
+	"github.com/layer0-platform/webpackager/certchain/certchainutil"
 )
 
 // Factory produces and verifies signed exchanges.

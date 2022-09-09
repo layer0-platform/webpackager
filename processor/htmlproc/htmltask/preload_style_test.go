@@ -18,9 +18,9 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/google/webpackager/processor/htmlproc/htmltask"
-	"github.com/google/webpackager/resource/preload"
-	"github.com/google/webpackager/resource/preload/preloadtest"
+	"github.com/layer0-platform/webpackager/processor/htmlproc/htmltask"
+	"github.com/layer0-platform/webpackager/resource/preload"
+	"github.com/layer0-platform/webpackager/resource/preload/preloadtest"
 )
 
 func TestPreloadStylesheets(t *testing.T) {

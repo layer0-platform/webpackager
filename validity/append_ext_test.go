@@ -20,9 +20,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/google/webpackager/exchange"
-	"github.com/google/webpackager/exchange/exchangetest"
-	"github.com/google/webpackager/validity"
+	"github.com/layer0-platform/webpackager/exchange"
+	"github.com/layer0-platform/webpackager/exchange/exchangetest"
+	"github.com/layer0-platform/webpackager/validity"
 )
 
 func TestAppendExtDotUnixTime(t *testing.T) {

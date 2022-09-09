@@ -20,7 +20,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/google/webpackager/processor/htmlproc/htmldoc"
+	"github.com/layer0-platform/webpackager/processor/htmlproc/htmldoc"
 	"golang.org/x/net/html"
 	"golang.org/x/net/html/atom"
 )

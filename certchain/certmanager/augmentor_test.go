@@ -18,10 +18,10 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/google/webpackager/certchain"
-	"github.com/google/webpackager/certchain/certmanager"
-	"github.com/google/webpackager/certchain/certmanager/futureevent"
-	"github.com/google/webpackager/internal/certchaintest"
+	"github.com/layer0-platform/webpackager/certchain"
+	"github.com/layer0-platform/webpackager/certchain/certmanager"
+	"github.com/layer0-platform/webpackager/certchain/certmanager/futureevent"
+	"github.com/layer0-platform/webpackager/internal/certchaintest"
 )
 
 func TestFactory(t *testing.T) {

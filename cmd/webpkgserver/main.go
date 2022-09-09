@@ -24,8 +24,8 @@ import (
 	"net"
 	"os"
 
-	"github.com/google/webpackager/server"
-	"github.com/google/webpackager/server/tomlconfig"
+	"github.com/layer0-platform/webpackager/server"
+	"github.com/layer0-platform/webpackager/server/tomlconfig"
 	multierror "github.com/hashicorp/go-multierror"
 )
 

@@ -17,10 +17,10 @@ package commonproc
 import (
 	"log"
 
-	"github.com/google/webpackager/exchange"
-	"github.com/google/webpackager/processor"
-	"github.com/google/webpackager/resource/httplink"
-	"github.com/google/webpackager/resource/preload"
+	"github.com/layer0-platform/webpackager/exchange"
+	"github.com/layer0-platform/webpackager/processor"
+	"github.com/layer0-platform/webpackager/resource/httplink"
+	"github.com/layer0-platform/webpackager/resource/preload"
 )
 
 const headerKey = "Link"
@@ -38,7 +38,7 @@ var ExtractPreloadHeaders processor.Processor = &extractPreloadHeaders{}
 var keepNonPreloadLinkHeaders = false
 
 // maxNumPreloads is the maximum number of preload links allowed by WebPackager.
-// This exists to satisfy: https://github.com/google/webpackager/blob/main/docs/cache_requirements.md.
+// This exists to satisfy: https://github.com/layer0-platform/webpackager/blob/main/docs/cache_requirements.md.
 const maxNumPreloads = 20
 
 type extractPreloadHeaders struct{}

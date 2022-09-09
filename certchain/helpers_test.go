@@ -22,8 +22,8 @@ import (
 
 	"github.com/WICG/webpackage/go/signedexchange"
 	"github.com/google/go-cmp/cmp"
-	"github.com/google/webpackager/certchain"
-	"github.com/google/webpackager/certchain/certchainutil"
+	"github.com/layer0-platform/webpackager/certchain"
+	"github.com/layer0-platform/webpackager/certchain/certchainutil"
 )
 
 // bigIntComparer allows big.Int values to be compared in the cmp methods.

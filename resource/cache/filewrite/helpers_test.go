@@ -15,8 +15,8 @@
 package filewrite_test
 
 import (
-	"github.com/google/webpackager/resource"
-	"github.com/google/webpackager/resource/cache/filewrite"
+	"github.com/layer0-platform/webpackager/resource"
+	"github.com/layer0-platform/webpackager/resource/cache/filewrite"
 )
 
 // FixedMappingRule returns a MappingRule mapping anything to path.

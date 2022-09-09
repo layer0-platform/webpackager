@@ -18,10 +18,10 @@ package htmlproc
 import (
 	"bytes"
 
-	"github.com/google/webpackager/exchange"
-	"github.com/google/webpackager/processor"
-	"github.com/google/webpackager/processor/htmlproc/htmldoc"
-	"github.com/google/webpackager/processor/htmlproc/htmltask"
+	"github.com/layer0-platform/webpackager/exchange"
+	"github.com/layer0-platform/webpackager/processor"
+	"github.com/layer0-platform/webpackager/processor/htmlproc/htmldoc"
+	"github.com/layer0-platform/webpackager/processor/htmlproc/htmltask"
 	"golang.org/x/net/html"
 )
 

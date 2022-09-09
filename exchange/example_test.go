@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/google/webpackager/exchange"
+	"github.com/layer0-platform/webpackager/exchange"
 )
 
 func ExampleValidPeriod_Contains() {

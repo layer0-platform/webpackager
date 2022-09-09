@@ -20,8 +20,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/google/webpackager/resource"
-	"github.com/google/webpackager/resource/cache"
+	"github.com/layer0-platform/webpackager/resource"
+	"github.com/layer0-platform/webpackager/resource/cache"
 )
 
 // NewFileWriteCache creates and initializes a new ResourceCache that also

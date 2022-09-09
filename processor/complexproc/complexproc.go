@@ -15,10 +15,10 @@
 package complexproc
 
 import (
-	"github.com/google/webpackager/processor"
-	"github.com/google/webpackager/processor/commonproc"
-	"github.com/google/webpackager/processor/htmlproc"
-	"github.com/google/webpackager/processor/preverify"
+	"github.com/layer0-platform/webpackager/processor"
+	"github.com/layer0-platform/webpackager/processor/commonproc"
+	"github.com/layer0-platform/webpackager/processor/htmlproc"
+	"github.com/layer0-platform/webpackager/processor/preverify"
 )
 
 // DefaultProcessor is the processor used by webpackager.Packager by default.

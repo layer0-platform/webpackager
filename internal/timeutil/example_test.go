@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/google/webpackager/internal/timeutil"
+	"github.com/layer0-platform/webpackager/internal/timeutil"
 )
 
 func Example() {

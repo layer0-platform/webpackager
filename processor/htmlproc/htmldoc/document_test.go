@@ -18,8 +18,8 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/google/webpackager/internal/urlutil"
-	"github.com/google/webpackager/processor/htmlproc/htmldoc"
+	"github.com/layer0-platform/webpackager/internal/urlutil"
+	"github.com/layer0-platform/webpackager/processor/htmlproc/htmldoc"
 )
 
 func TestDocument(t *testing.T) {

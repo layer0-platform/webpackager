@@ -18,9 +18,9 @@ import (
 	"errors"
 	"time"
 
-	"github.com/google/webpackager/certchain"
-	"github.com/google/webpackager/certchain/certmanager"
-	"github.com/google/webpackager/certchain/certmanager/futureevent"
+	"github.com/layer0-platform/webpackager/certchain"
+	"github.com/layer0-platform/webpackager/certchain/certmanager"
+	"github.com/layer0-platform/webpackager/certchain/certmanager/futureevent"
 )
 
 type stubRawChainSource struct {

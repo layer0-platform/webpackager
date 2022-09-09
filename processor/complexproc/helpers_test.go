@@ -15,7 +15,7 @@
 package complexproc_test
 
 import (
-	"github.com/google/webpackager/processor/htmlproc/htmltask"
+	"github.com/layer0-platform/webpackager/processor/htmlproc/htmltask"
 )
 
 // NewCustomHTMLTask is a hypothetical function used in example_test.go.

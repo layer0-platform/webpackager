@@ -21,16 +21,16 @@ import (
 	"testing"
 	"time"
 
-	"github.com/google/webpackager"
-	"github.com/google/webpackager/exchange"
-	"github.com/google/webpackager/exchange/vprule"
-	"github.com/google/webpackager/fetch"
-	"github.com/google/webpackager/fetch/fetchtest"
-	"github.com/google/webpackager/internal/certchaintest"
-	"github.com/google/webpackager/internal/urlutil"
-	"github.com/google/webpackager/processor/complexproc"
-	"github.com/google/webpackager/processor/htmlproc"
-	"github.com/google/webpackager/processor/htmlproc/htmltask"
+	"github.com/layer0-platform/webpackager"
+	"github.com/layer0-platform/webpackager/exchange"
+	"github.com/layer0-platform/webpackager/exchange/vprule"
+	"github.com/layer0-platform/webpackager/fetch"
+	"github.com/layer0-platform/webpackager/fetch/fetchtest"
+	"github.com/layer0-platform/webpackager/internal/certchaintest"
+	"github.com/layer0-platform/webpackager/internal/urlutil"
+	"github.com/layer0-platform/webpackager/processor/complexproc"
+	"github.com/layer0-platform/webpackager/processor/htmlproc"
+	"github.com/layer0-platform/webpackager/processor/htmlproc/htmltask"
 )
 
 var (

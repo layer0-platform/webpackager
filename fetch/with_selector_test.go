@@ -21,8 +21,8 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/google/webpackager/fetch"
-	"github.com/google/webpackager/urlmatcher"
+	"github.com/layer0-platform/webpackager/fetch"
+	"github.com/layer0-platform/webpackager/urlmatcher"
 )
 
 func TestSelector(t *testing.T) {

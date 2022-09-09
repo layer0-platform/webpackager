@@ -19,7 +19,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/google/webpackager/urlrewrite"
+	"github.com/layer0-platform/webpackager/urlrewrite"
 )
 
 func ExampleCleanPath() {

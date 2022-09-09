@@ -23,12 +23,12 @@ import (
 	"time"
 
 	"github.com/WICG/webpackage/go/signedexchange/structuredheader"
-	"github.com/google/webpackager/exchange"
-	"github.com/google/webpackager/exchange/exchangetest"
-	"github.com/google/webpackager/internal/certchaintest"
-	"github.com/google/webpackager/internal/urlutil"
-	"github.com/google/webpackager/resource"
-	"github.com/google/webpackager/resource/preload"
+	"github.com/layer0-platform/webpackager/exchange"
+	"github.com/layer0-platform/webpackager/exchange/exchangetest"
+	"github.com/layer0-platform/webpackager/internal/certchaintest"
+	"github.com/layer0-platform/webpackager/internal/urlutil"
+	"github.com/layer0-platform/webpackager/resource"
+	"github.com/layer0-platform/webpackager/resource/preload"
 )
 
 func eraseSignature(sxg []byte) []byte {

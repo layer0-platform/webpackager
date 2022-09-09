@@ -18,8 +18,8 @@ package certchaintest
 import (
 	"crypto"
 
-	"github.com/google/webpackager/certchain"
-	"github.com/google/webpackager/certchain/certchainutil"
+	"github.com/layer0-platform/webpackager/certchain"
+	"github.com/layer0-platform/webpackager/certchain/certchainutil"
 )
 
 // MustReadRawChainFile is like certchainutil.ReadRawChainFile but panics

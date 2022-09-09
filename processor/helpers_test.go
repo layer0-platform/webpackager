@@ -15,8 +15,8 @@
 package processor_test
 
 import (
-	"github.com/google/webpackager/exchange"
-	"github.com/google/webpackager/processor"
+	"github.com/layer0-platform/webpackager/exchange"
+	"github.com/layer0-platform/webpackager/processor"
 )
 
 // newTestingProcessor returns a Processor that adds "X-Testing: <value>"

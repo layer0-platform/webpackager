@@ -15,9 +15,9 @@
 package htmltask
 
 import (
-	"github.com/google/webpackager/processor/htmlproc/htmldoc"
-	"github.com/google/webpackager/resource/httplink"
-	"github.com/google/webpackager/resource/preload"
+	"github.com/layer0-platform/webpackager/processor/htmlproc/htmldoc"
+	"github.com/layer0-platform/webpackager/resource/httplink"
+	"github.com/layer0-platform/webpackager/resource/preload"
 	"golang.org/x/net/html"
 	"golang.org/x/net/html/atom"
 )

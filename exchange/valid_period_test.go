@@ -18,7 +18,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/google/webpackager/exchange"
+	"github.com/layer0-platform/webpackager/exchange"
 )
 
 func TestNewValidPeriod(t *testing.T) {

@@ -18,8 +18,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/google/webpackager/exchange/exchangetest"
-	"github.com/google/webpackager/processor/commonproc"
+	"github.com/layer0-platform/webpackager/exchange/exchangetest"
+	"github.com/layer0-platform/webpackager/processor/commonproc"
 )
 
 func TestContentTypeProcessor(t *testing.T) {

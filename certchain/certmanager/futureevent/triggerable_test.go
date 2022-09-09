@@ -17,7 +17,7 @@ package futureevent_test
 import (
 	"testing"
 
-	"github.com/google/webpackager/certchain/certmanager/futureevent"
+	"github.com/layer0-platform/webpackager/certchain/certmanager/futureevent"
 )
 
 func TestTriggerableEvent(t *testing.T) {

@@ -18,9 +18,9 @@ package preloadtest
 import (
 	"fmt"
 
-	"github.com/google/webpackager/internal/urlutil"
-	"github.com/google/webpackager/resource/httplink"
-	"github.com/google/webpackager/resource/preload"
+	"github.com/layer0-platform/webpackager/internal/urlutil"
+	"github.com/layer0-platform/webpackager/resource/httplink"
+	"github.com/layer0-platform/webpackager/resource/preload"
 )
 
 // NewPreloadForRawURL is like preload.NewPreloadForURL, but takes a URL
